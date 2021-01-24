@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+}
+.image{
+    width: 100%;
+    height: 100%;
+    border: 2px solid grey;
+    background-image: url(https://fmc.si/media/cache/image/167-telekomunikacije-bcf926e444273082.jpg);
+    background-image: center;
+}
+.link{
+    position: absolute;
+    top: 30%;
+    left: 45%;
+    text-decoration-color: underline;
+    color: red;
+    
+
+}
+.image-wrapper{
+    border: 2px solid green;
+    height: 800px
+    position: relative;
+}
+img{
+    width: 100%;
+    height: 100%;
+    
+}
